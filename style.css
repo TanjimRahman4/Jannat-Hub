@@ -1,0 +1,32 @@
+.hero {
+    background: url('https://images.unsplash.com/photo-1511707171634-5f897ff02aa9') center/cover no-repeat;
+    color: white;
+    padding: 90px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+.product img {
+    height: 200px;
+    object-fit: cover;
+}
+
+#h1 {
+    color: rgb(255, 153, 0);
+}
+
+#p {
+    color: rgb(255, 153, 0);
+    font-weight: bold;
+}
+
+#Logo {
+    width: 100px;
+    height: 100px;
+}
